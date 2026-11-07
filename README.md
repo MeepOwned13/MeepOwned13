@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MeepOwned13
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python and studying Computer Science
+- Hi, I’m @MeepOwned13
 
 <!---
 MeepOwned13/MeepOwned13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
